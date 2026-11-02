@@ -1,0 +1,352 @@
+[
+  {
+    "booking_id": "B001",
+    "screening_id": "S001",
+    "customer_name": "田中 美咲",
+    "seat_number": 1,
+    "status": "active"
+  },
+  {
+    "booking_id": "B002",
+    "screening_id": "S002",
+    "customer_name": "中村 七海",
+    "seat_number": 1,
+    "status": "active"
+  },
+  {
+    "booking_id": "B003",
+    "screening_id": "S003",
+    "customer_name": "木村 陸",
+    "seat_number": 1,
+    "status": "active"
+  },
+  {
+    "booking_id": "B004",
+    "screening_id": "S004",
+    "customer_name": "佐藤 健太",
+    "seat_number": 1,
+    "status": "active"
+  },
+  {
+    "booking_id": "B005",
+    "screening_id": "S005",
+    "customer_name": "小林 蓮",
+    "seat_number": 1,
+    "status": "cancelled"
+  },
+  {
+    "booking_id": "B006",
+    "screening_id": "S006",
+    "customer_name": "林 優花",
+    "seat_number": 1,
+    "status": "active"
+  },
+  {
+    "booking_id": "B007",
+    "screening_id": "S007",
+    "customer_name": "鈴木 結衣",
+    "seat_number": 1,
+    "status": "active"
+  },
+  {
+    "booking_id": "B008",
+    "screening_id": "S008",
+    "customer_name": "加藤 さくら",
+    "seat_number": 1,
+    "status": "active"
+  },
+  {
+    "booking_id": "B009",
+    "screening_id": "S009",
+    "customer_name": "清水 蒼",
+    "seat_number": 1,
+    "status": "active"
+  },
+  {
+    "booking_id": "B010",
+    "screening_id": "S010",
+    "customer_name": "高橋 翔太",
+    "seat_number": 1,
+    "status": "cancelled"
+  },
+  {
+    "booking_id": "B011",
+    "screening_id": "S011",
+    "customer_name": "吉田 大輔",
+    "seat_number": 1,
+    "status": "active"
+  },
+  {
+    "booking_id": "B012",
+    "screening_id": "S012",
+    "customer_name": "山口 真央",
+    "seat_number": 1,
+    "status": "active"
+  },
+  {
+    "booking_id": "B013",
+    "screening_id": "S013",
+    "customer_name": "伊藤 葵",
+    "seat_number": 1,
+    "status": "active"
+  },
+  {
+    "booking_id": "B014",
+    "screening_id": "S014",
+    "customer_name": "山田 莉子",
+    "seat_number": 1,
+    "status": "active"
+  },
+  {
+    "booking_id": "B015",
+    "screening_id": "S015",
+    "customer_name": "斎藤 翼",
+    "seat_number": 1,
+    "status": "cancelled"
+  },
+  {
+    "booking_id": "B016",
+    "screening_id": "S016",
+    "customer_name": "渡辺 陽菜",
+    "seat_number": 1,
+    "status": "active"
+  },
+  {
+    "booking_id": "B017",
+    "screening_id": "S017",
+    "customer_name": "松本 直樹",
+    "seat_number": 1,
+    "status": "active"
+  },
+  {
+    "booking_id": "B018",
+    "screening_id": "S018",
+    "customer_name": "石井 杏奈",
+    "seat_number": 1,
+    "status": "active"
+  },
+  {
+    "booking_id": "B019",
+    "screening_id": "S019",
+    "customer_name": "山本 悠斗",
+    "seat_number": 1,
+    "status": "active"
+  },
+  {
+    "booking_id": "B020",
+    "screening_id": "S020",
+    "customer_name": "井上 遥",
+    "seat_number": 1,
+    "status": "cancelled"
+  },
+  {
+    "booking_id": "B021",
+    "screening_id": "S021",
+    "customer_name": "佐藤 健太",
+    "seat_number": 1,
+    "status": "active"
+  },
+  {
+    "booking_id": "B022",
+    "screening_id": "S022",
+    "customer_name": "小林 蓮",
+    "seat_number": 1,
+    "status": "active"
+  },
+  {
+    "booking_id": "B023",
+    "screening_id": "S023",
+    "customer_name": "林 優花",
+    "seat_number": 1,
+    "status": "active"
+  },
+  {
+    "booking_id": "B024",
+    "screening_id": "S024",
+    "customer_name": "鈴木 結衣",
+    "seat_number": 1,
+    "status": "active"
+  },
+  {
+    "booking_id": "B025",
+    "screening_id": "S025",
+    "customer_name": "加藤 さくら",
+    "seat_number": 1,
+    "status": "cancelled"
+  },
+  {
+    "booking_id": "B026",
+    "screening_id": "S026",
+    "customer_name": "清水 蒼",
+    "seat_number": 1,
+    "status": "active"
+  },
+  {
+    "booking_id": "B027",
+    "screening_id": "S027",
+    "customer_name": "高橋 翔太",
+    "seat_number": 1,
+    "status": "active"
+  },
+  {
+    "booking_id": "B028",
+    "screening_id": "S028",
+    "customer_name": "吉田 大輔",
+    "seat_number": 1,
+    "status": "active"
+  },
+  {
+    "booking_id": "B029",
+    "screening_id": "S029",
+    "customer_name": "山口 真央",
+    "seat_number": 1,
+    "status": "active"
+  },
+  {
+    "booking_id": "B030",
+    "screening_id": "S030",
+    "customer_name": "伊藤 葵",
+    "seat_number": 1,
+    "status": "cancelled"
+  },
+  {
+    "booking_id": "B031",
+    "screening_id": "S001",
+    "customer_name": "山田 莉子",
+    "seat_number": 2,
+    "status": "active"
+  },
+  {
+    "booking_id": "B032",
+    "screening_id": "S002",
+    "customer_name": "斎藤 翼",
+    "seat_number": 2,
+    "status": "active"
+  },
+  {
+    "booking_id": "B033",
+    "screening_id": "S003",
+    "customer_name": "渡辺 陽菜",
+    "seat_number": 2,
+    "status": "active"
+  },
+  {
+    "booking_id": "B034",
+    "screening_id": "S004",
+    "customer_name": "松本 直樹",
+    "seat_number": 2,
+    "status": "active"
+  },
+  {
+    "booking_id": "B035",
+    "screening_id": "S005",
+    "customer_name": "石井 杏奈",
+    "seat_number": 2,
+    "status": "cancelled"
+  },
+  {
+    "booking_id": "B036",
+    "screening_id": "S006",
+    "customer_name": "山本 悠斗",
+    "seat_number": 2,
+    "status": "active"
+  },
+  {
+    "booking_id": "B037",
+    "screening_id": "S007",
+    "customer_name": "井上 遥",
+    "seat_number": 2,
+    "status": "active"
+  },
+  {
+    "booking_id": "B038",
+    "screening_id": "S008",
+    "customer_name": "田中 美咲",
+    "seat_number": 2,
+    "status": "active"
+  },
+  {
+    "booking_id": "B039",
+    "screening_id": "S009",
+    "customer_name": "中村 七海",
+    "seat_number": 2,
+    "status": "active"
+  },
+  {
+    "booking_id": "B040",
+    "screening_id": "S010",
+    "customer_name": "木村 陸",
+    "seat_number": 2,
+    "status": "cancelled"
+  },
+  {
+    "booking_id": "B041",
+    "screening_id": "S011",
+    "customer_name": "鈴木 結衣",
+    "seat_number": 2,
+    "status": "active"
+  },
+  {
+    "booking_id": "B042",
+    "screening_id": "S012",
+    "customer_name": "加藤 さくら",
+    "seat_number": 2,
+    "status": "active"
+  },
+  {
+    "booking_id": "B043",
+    "screening_id": "S013",
+    "customer_name": "清水 蒼",
+    "seat_number": 2,
+    "status": "active"
+  },
+  {
+    "booking_id": "B044",
+    "screening_id": "S014",
+    "customer_name": "高橋 翔太",
+    "seat_number": 2,
+    "status": "active"
+  },
+  {
+    "booking_id": "B045",
+    "screening_id": "S015",
+    "customer_name": "吉田 大輔",
+    "seat_number": 2,
+    "status": "cancelled"
+  },
+  {
+    "booking_id": "B046",
+    "screening_id": "S016",
+    "customer_name": "山口 真央",
+    "seat_number": 2,
+    "status": "active"
+  },
+  {
+    "booking_id": "B047",
+    "screening_id": "S017",
+    "customer_name": "伊藤 葵",
+    "seat_number": 2,
+    "status": "active"
+  },
+  {
+    "booking_id": "B048",
+    "screening_id": "S018",
+    "customer_name": "山田 莉子",
+    "seat_number": 2,
+    "status": "active"
+  },
+  {
+    "booking_id": "B049",
+    "screening_id": "S019",
+    "customer_name": "斎藤 翼",
+    "seat_number": 2,
+    "status": "active"
+  },
+  {
+    "booking_id": "B050",
+    "screening_id": "S020",
+    "customer_name": "渡辺 陽菜",
+    "seat_number": 2,
+    "status": "cancelled"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "screening_id": "S001",
+    "movie_id": "M001",
+    "hall_id": "H01",
+    "starts_at": "2026-11-14 10:00",
+    "price": 1500
+  },
+  {
+    "screening_id": "S002",
+    "movie_id": "M002",
+    "hall_id": "H01",
+    "starts_at": "2026-11-14 15:00",
+    "price": 1500
+  },
+  {
+    "screening_id": "S003",
+    "movie_id": "M003",
+    "hall_id": "H02",
+    "starts_at": "2026-11-14 10:00",
+    "price": 1500
+  },
+  {
+    "screening_id": "S004",
+    "movie_id": "M004",
+    "hall_id": "H02",
+    "starts_at": "2026-11-14 15:00",
+    "price": 1500
+  },
+  {
+    "screening_id": "S005",
+    "movie_id": "M005",
+    "hall_id": "H03",
+    "starts_at": "2026-11-14 10:00",
+    "price": 1500
+  },
+  {
+    "screening_id": "S006",
+    "movie_id": "M006",
+    "hall_id": "H03",
+    "starts_at": "2026-11-14 15:00",
+    "price": 1500
+  },
+  {
+    "screening_id": "S007",
+    "movie_id": "M007",
+    "hall_id": "H04",
+    "starts_at": "2026-11-14 10:00",
+    "price": 1500
+  },
+  {
+    "screening_id": "S008",
+    "movie_id": "M008",
+    "hall_id": "H04",
+    "starts_at": "2026-11-14 15:00",
+    "price": 1500
+  },
+  {
+    "screening_id": "S009",
+    "movie_id": "M001",
+    "hall_id": "H05",
+    "starts_at": "2026-11-14 10:00",
+    "price": 2200
+  },
+  {
+    "screening_id": "S010",
+    "movie_id": "M002",
+    "hall_id": "H05",
+    "starts_at": "2026-11-14 15:00",
+    "price": 2200
+  },
+  {
+    "screening_id": "S011",
+    "movie_id": "M004",
+    "hall_id": "H01",
+    "starts_at": "2026-11-15 10:00",
+    "price": 1500
+  },
+  {
+    "screening_id": "S012",
+    "movie_id": "M005",
+    "hall_id": "H01",
+    "starts_at": "2026-11-15 15:00",
+    "price": 1500
+  },
+  {
+    "screening_id": "S013",
+    "movie_id": "M006",
+    "hall_id": "H02",
+    "starts_at": "2026-11-15 10:00",
+    "price": 1500
+  },
+  {
+    "screening_id": "S014",
+    "movie_id": "M007",
+    "hall_id": "H02",
+    "starts_at": "2026-11-15 15:00",
+    "price": 1500
+  },
+  {
+    "screening_id": "S015",
+    "movie_id": "M008",
+    "hall_id": "H03",
+    "starts_at": "2026-11-15 10:00",
+    "price": 1500
+  },
+  {
+    "screening_id": "S016",
+    "movie_id": "M001",
+    "hall_id": "H03",
+    "starts_at": "2026-11-15 15:00",
+    "price": 1500
+  },
+  {
+    "screening_id": "S017",
+    "movie_id": "M002",
+    "hall_id": "H04",
+    "starts_at": "2026-11-15 10:00",
+    "price": 1500
+  },
+  {
+    "screening_id": "S018",
+    "movie_id": "M003",
+    "hall_id": "H04",
+    "starts_at": "2026-11-15 15:00",
+    "price": 1500
+  },
+  {
+    "screening_id": "S019",
+    "movie_id": "M004",
+    "hall_id": "H05",
+    "starts_at": "2026-11-15 10:00",
+    "price": 2200
+  },
+  {
+    "screening_id": "S020",
+    "movie_id": "M005",
+    "hall_id": "H05",
+    "starts_at": "2026-11-15 15:00",
+    "price": 2200
+  },
+  {
+    "screening_id": "S021",
+    "movie_id": "M007",
+    "hall_id": "H01",
+    "starts_at": "2026-11-16 10:00",
+    "price": 1500
+  },
+  {
+    "screening_id": "S022",
+    "movie_id": "M008",
+    "hall_id": "H01",
+    "starts_at": "2026-11-16 15:00",
+    "price": 1500
+  },
+  {
+    "screening_id": "S023",
+    "movie_id": "M001",
+    "hall_id": "H02",
+    "starts_at": "2026-11-16 10:00",
+    "price": 1500
+  },
+  {
+    "screening_id": "S024",
+    "movie_id": "M002",
+    "hall_id": "H02",
+    "starts_at": "2026-11-16 15:00",
+    "price": 1500
+  },
+  {
+    "screening_id": "S025",
+    "movie_id": "M003",
+    "hall_id": "H03",
+    "starts_at": "2026-11-16 10:00",
+    "price": 1500
+  },
+  {
+    "screening_id": "S026",
+    "movie_id": "M004",
+    "hall_id": "H03",
+    "starts_at": "2026-11-16 15:00",
+    "price": 1500
+  },
+  {
+    "screening_id": "S027",
+    "movie_id": "M005",
+    "hall_id": "H04",
+    "starts_at": "2026-11-16 10:00",
+    "price": 1500
+  },
+  {
+    "screening_id": "S028",
+    "movie_id": "M006",
+    "hall_id": "H04",
+    "starts_at": "2026-11-16 15:00",
+    "price": 1500
+  },
+  {
+    "screening_id": "S029",
+    "movie_id": "M007",
+    "hall_id": "H05",
+    "starts_at": "2026-11-16 10:00",
+    "price": 2200
+  },
+  {
+    "screening_id": "S030",
+    "movie_id": "M008",
+    "hall_id": "H05",
+    "starts_at": "2026-11-16 15:00",
+    "price": 2200
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "movie_id": "M001",
+    "title": "ザ・スーパーマリオギャラクシー・ムービー",
+    "release_year": 2026,
+    "duration_minutes": 99
+  },
+  {
+    "movie_id": "M002",
+    "title": "名探偵コナン ハイウェイの堕天使",
+    "release_year": 2026,
+    "duration_minutes": 109
+  },
+  {
+    "movie_id": "M003",
+    "title": "映画ドラえもん 新・のび太の海底鬼岩城",
+    "release_year": 2026,
+    "duration_minutes": 102
+  },
+  {
+    "movie_id": "M004",
+    "title": "ほどなく、お別れです",
+    "release_year": 2026,
+    "duration_minutes": 125
+  },
+  {
+    "movie_id": "M005",
+    "title": "トイ・ストーリー5",
+    "release_year": 2026,
+    "duration_minutes": 102
+  },
+  {
+    "movie_id": "M006",
+    "title": "Michael マイケル",
+    "release_year": 2026,
+    "duration_minutes": 127
+  },
+  {
+    "movie_id": "M007",
+    "title": "プラダを着た悪魔2",
+    "release_year": 2026,
+    "duration_minutes": 119
+  },
+  {
+    "movie_id": "M008",
+    "title": "プロジェクト・ヘイル・メアリー",
+    "release_year": 2026,
+    "duration_minutes": 156
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "hall_id": "H01",
+    "name": "第1ホール",
+    "seat_count": 80
+  },
+  {
+    "hall_id": "H02",
+    "name": "第2ホール",
+    "seat_count": 60
+  },
+  {
+    "hall_id": "H03",
+    "name": "第3ホール",
+    "seat_count": 40
+  },
+  {
+    "hall_id": "H04",
+    "name": "第4ホール",
+    "seat_count": 30
+  },
+  {
+    "hall_id": "H05",
+    "name": "プレミアムホール",
+    "seat_count": 20
+  }
+]
